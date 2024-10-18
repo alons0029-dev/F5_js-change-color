@@ -1,4 +1,4 @@
-// Values
+// HTML Values
 const pageBackgroundColor = document.getElementById("pageBackground");
 const buttonColorText = document.getElementById("buttonColorText");
 const buttonAction = document.getElementById("buttonAction");
